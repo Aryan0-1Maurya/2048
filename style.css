@@ -1,0 +1,346 @@
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/
+
+[class~="button"] {
+  outline: none;
+}
+#game,
+body {
+  background: #2d2d2d;
+}
+[class~="button"] {
+  border-left-width: medium;
+}
+#game {
+  width: 360pt;
+}
+#game {
+  height: 450pt;
+}
+[class~="button"] {
+  border-bottom-width: medium;
+}
+[class~="button"] {
+  border-right-width: medium;
+}
+#title,
+[class~="title"],
+#new-game,
+#game-grid,
+[class~="blocks"],
+#game,
+[class~="score-block"] {
+  position: absolute;
+}
+#game {
+  top: 50%;
+}
+[class~="button"] {
+  border-top-width: medium;
+}
+#game {
+  left: 50%;
+}
+[class~="title"],
+#game {
+  transform: translate(-50%, -50%);
+}
+[class~="button"] {
+  border-left-style: none;
+}
+[class~="button"] {
+  border-bottom-style: none;
+}
+[class~="button"] {
+  border-right-style: none;
+}
+body {
+  width: 100vw;
+}
+* {
+  transition: 0.2s;
+}
+[class~="button"] {
+  border-top-style: none;
+}
+[class~="button"] {
+  border-left-color: currentColor;
+}
+* {
+  -webkit-user-select: none;
+}
+[class~="button"] {
+  border-bottom-color: currentColor;
+}
+[class~="button"] {
+  border-right-color: currentColor;
+}
+[class~="button"] {
+  border-top-color: currentColor;
+}
+[class~="button"] {
+  border-image: none;
+}
+* {
+  margin-left: 0;
+}
+* {
+  margin-bottom: 0;
+}
+[class~="score-block"] {
+  background: #333;
+}
+#title {
+  transition: 0.1s;
+}
+* {
+  margin-right: 0;
+}
+body {
+  height: 100vh;
+}
+#new-game:hover {
+  background: #555;
+}
+#title {
+  color: #eee;
+}
+body,
+[class~="blocks"] {
+  display: flex;
+}
+#title {
+  font-size: 60px;
+}
+[class~="score-block"],
+#new-game,
+[class~="title"] {
+  color: #fff;
+}
+[class~="score-block"] {
+  font-size: 13.5pt;
+}
+[class~="score-block"] {
+  width: 95px;
+}
+* {
+  margin-top: 0;
+}
+#title {
+  left: 0.416666667in;
+}
+[class~="score-block"] {
+  height: 43px;
+}
+[class~="score-block"] {
+  border-radius: 0.020833333in;
+}
+body,
+[class~="title"] {
+  font-family: Baumans;
+}
+[class~="title"] {
+  top: 20%;
+}
+#title {
+  top: 36px;
+}
+[class~="blocks"],
+body {
+  justify-content: center;
+}
+#score {
+  left: 245px;
+}
+[class~="title"] {
+  left: 25%;
+}
+#best-score,
+#score {
+  top: 37.5pt;
+}
+#best-score-output,
+#score-output {
+  display: inline-block;
+}
+[class~="blocks"] {
+  transition: 150ms transform, 250ms left, 250ms top;
+}
+[class~="blocks"] {
+  background: #0f6ab4;
+}
+#best-score-output,
+#new-game,
+#score-output {
+  transition: 0.2s;
+}
+#score-output,
+#best-score-output {
+  font-weight: bold;
+}
+#best-score,
+#new-game {
+  left: 258.75pt;
+}
+body,
+[class~="blocks"] {
+  align-items: center;
+}
+[class~="blocks"] {
+  font-size: 36px;
+}
+[class~="blocks"] {
+  color: #eee;
+}
+[class~="blocks"],
+td {
+  width: 63.75pt;
+}
+* {
+  padding-left: 0;
+}
+[class~="blocks"],
+td {
+  height: 5.3125pc;
+}
+td,
+[class~="blocks"] {
+  border-radius: 3.75pt;
+}
+[class~="block-512"] {
+  background: #0ba4e6;
+}
+[class~="block-16"],
+.block-256,
+.block-64,
+[class~="block-32"],
+[class~="block-128"],
+[class~="block-512"],
+.block-512,
+.block-1024,
+[class~="block-8"] {
+  font-size: 0.416666667in;
+}
+* {
+  padding-bottom: 0;
+}
+[class~="block-16"] {
+  background: #00425e;
+}
+#new-game {
+  background: #444;
+}
+[class~="block-128"] {
+  background: #006d9c;
+}
+#new-game {
+  font-size: 12pt;
+}
+td {
+  background: #282828;
+}
+#new-game {
+  width: 95px;
+}
+#new-game {
+  height: 30px;
+}
+.block-1024 {
+  background: #0092d1;
+}
+.block-512 {
+  background: #00b3ff;
+}
+#new-game {
+  top: 1.145833333in;
+}
+[class~="block-8"] {
+  background: #0ba4e6;
+}
+#new-game {
+  border-radius: 0.020833333in;
+}
+#game-grid {
+  background: #333;
+}
+#game-grid {
+  width: 300pt;
+}
+* {
+  padding-right: 0;
+}
+#game-grid {
+  height: 25pc;
+}
+
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/
+
+[class~="block-32"] {
+  background: #0899d8;
+}
+#game-grid {
+  left: 30pt;
+}
+#game-grid {
+  top: 160px;
+}
+.block-64 {
+  background: #0389c2;
+}
+[class~="block-2"] {
+  background: #0ba4e6;
+}
+#game-grid {
+  border-radius: 5px;
+}
+[class~="block-2"] {
+  background: #2188b4;
+}
+[class~="block-2048"] {
+  background: #002e53;
+}
+#game-grid {
+  border-spacing: 0.125in;
+}
+* {
+  padding-top: 0;
+}
+* {
+  font-family: Arial;
+}
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/
